@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnMaps"
+        android:icon="@drawable/baseline_map_24"
+        android:title="gmaps"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/btnLogout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Logout"
+        app:showAsAction="always"/>
+
+</menu>
